@@ -357,16 +357,6 @@ morningc -f app.morn -o release --instrument=perf
 
 ### Conclusion: The Morning Advantage  
 
-**Performance Benchmark** (Geometric mean):  
-```mermaid
-bar
-    title Execution Time (ns)
-    C++ : 85
-    Rust : 79
-    Zig : 74
-    Morning : 62
-```
-
 **Ecosystem Benefits**:  
 - 3.1× faster compilation than Go  
 - 98% memory safety guarantee  
