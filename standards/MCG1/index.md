@@ -404,28 +404,20 @@ morninglang -f app.morn -o release -O3 --keep-llvm
 ---
 
 ### Conclusion: The Morning Advantage  
-Morning delivers unprecedented control for systems programming:  
-
-```mermaid
-pie
-    title Performance Benchmarks
-    “Rust” : 28
-    “C++” : 25
-    “Morning” : 35
-    “Zig” : 12
-```
 
 **Key Benefits**:  
-- 1.5-3× faster compilation than C++  
-- 95% less memory safety bugs vs. C  
+- 1.5× faster compilation than C++  
+- 75% less memory safety bugs vs. C  
 - 40% reduced LOC for algorithms  
 - Seamless C interop via LLVM  
 
 **The Morning Manifesto**:  
 *"We reject the false choice between performance and expressiveness.  
-In the dawn of a new programming era, we build systems that are  
-as elegant as they are efficient—where every abstraction pays  
-its way in optimized machine code."*  
+We reject the old methods imposed by backward compatibility with
+long-dead legacy products. Morning is a new era in programming
+that combines the simplicity of S-expressions with the functionality
+of C++. Thanks to the purity of the project and its versatility,
+you can create anything and everything you want."*  
 
 ---  
 *MCG-1 Standard © 2025 Morning Language Foundation*  
